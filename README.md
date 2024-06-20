@@ -1,4 +1,4 @@
-### Raytracing Experiments
+# Raytracing Experiments
 
 This is my collection of experiments with raytracing and conventional rasterizing pipelines. The aim is to create a small app that can load a GLTF scene and display it using different rendering methods and pipelines, and compare the results side by side.
 
